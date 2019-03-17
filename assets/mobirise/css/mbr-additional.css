@@ -1635,6 +1635,22 @@ body {
 .cid-rkBqlDbRZs H2 {
   text-align: left;
 }
+.cid-rkRBcbJ6zs {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+  background: linear-gradient(45deg, #efefef, #b2ccd2);
+}
+.cid-rkRBcbJ6zs .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rkRBcbJ6zs .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rkRBcbJ6zs .content-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 .cid-rkRxOUwEvK {
   padding-top: 45px;
   padding-bottom: 45px;
